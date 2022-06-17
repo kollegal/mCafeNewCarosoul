@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.12.0",
+    "libraryName": "m-cafe-new-carousel-webpart",
+    "libraryId": "f10b32c2-9823-4f47-91e6-27af4adef1d3",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

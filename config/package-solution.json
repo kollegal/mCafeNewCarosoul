@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mCafe_IS_NewCarouselWebpart",
+    "id": "e10b32c2-9823-4e47-91e6-27ae4adee1d3",
+    "version": "6.1.0.3",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/mCafe_IS_NewCarouselWebpart.sppkg"
+  }
+}
